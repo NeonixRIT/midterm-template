@@ -1,6 +1,5 @@
 {
     "github.copilot.enable": {
-
         "*": false
     },
     "tabnine.disable_file_regex": [
